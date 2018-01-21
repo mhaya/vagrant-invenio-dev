@@ -1,0 +1,10 @@
+127.0.0.1	invenio	invenio
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+172.31.111.10 web web
+172.31.111.10 postgresql postgresql
+172.31.111.10 redis redis
+172.31.111.10 elasticsearch elasticsearch
+172.31.111.10 rabbitmq rabbitmq
+172.21.111.10 worker worker
+
